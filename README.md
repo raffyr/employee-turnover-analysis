@@ -9,6 +9,7 @@ Este projeto tem como objetivo identificar os principais fatores associados ao t
 - Estatística Descritiva
 - Tabelas Dinâmicas
 - Information Value (IV)
+- Análise Exploratória de Dados (EDA)
 
   ## Base de Dados
 
