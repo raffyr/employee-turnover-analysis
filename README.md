@@ -1,4 +1,8 @@
 # Análise de Turnover de Funcionários
+
+![Capa do Projeto](capa_turnover.png)
+
+
 ## Objetivo
 
 Este projeto tem como objetivo identificar os principais fatores associados ao turnover de funcioários por meio de análise exploratória de dados e Information Value (IV). O projeto foi desenvolvido como parte do meu portifólio em Análise de Dados.
