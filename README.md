@@ -1,6 +1,6 @@
 # Análise de Turnover de Funcionários
 
-![Capa do Projeto](capa_turnover.png)
+![Capa do Projeto](capa_turnover.jpg)
 
 
 ## Objetivo
